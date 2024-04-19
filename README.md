@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, I'm Nguyen Tan Duy</h1>
 
-<p align="center">Software Developer from in VietNam</p>
+<p align="center">Software Developer in VietNam</p>
 
 <p align="center">
   <a href="https://www.facebook.com/ntanduy03"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
@@ -9,4 +9,4 @@
   <a href="https://www.linkedin.com/in/nguyen-tan-duy-a049a92a6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-
+<h4>🔭 :ascension_island: </h4>
