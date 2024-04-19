@@ -1,3 +1,3 @@
-### Hi there 👋
-> [!TIP]
-> Helpful advice for doing things better or more easily.
+<h1 align="center">Hi👋, I'm Nguyen Tan Duy</h1>
+
+<p align="center">Software Developer from in VietNam</p>
