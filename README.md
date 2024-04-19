@@ -2,14 +2,18 @@
 
 <p align="center">Software Developer in VietNam</p>
 
-### I'm a web wizard, conjuring up interactive and user-friendly websites
-
 <p align="center">
   <a href="https://www.facebook.com/ntanduy03"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/cuxe2612"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ng_tanduy"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nguyen-tan-duy-a049a92a6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
+
+### I'm a web wizard, conjuring up interactive and user-friendly websites
+- :sunglasses: Coding is more than just a job for me, it's an endless passion that ignites my creativity and fuels my curiosity.
+- :heart:  I have a particular fondness for Laravel, Vue.js, and Bootstrap, where I leverage their power to build robust and dynamic web applications.
+- :muscle: Every line of code is an opportunity to create something extraordinary, and I'm constantly thrilled by the challenges it presents.
+- :dash: My expertise lies in crafting elegant solutions using cutting-edge technologies. 
 
 <h3>:briefcase: My current work centers around...</h3>
 
