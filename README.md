@@ -9,15 +9,17 @@
   <a href="https://www.linkedin.com/in/nguyen-tan-duy-a049a92a6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-### I'm a web wizard, conjuring up interactive and user-friendly websites
+## I'm a web wizard, conjuring up interactive and user-friendly websites
 - :sunglasses: Coding is more than just a job for me, it's an endless passion that ignites my creativity and fuels my curiosity.
-- :heart:  I have a particular fondness for Laravel, Vue.js, and Bootstrap, where I leverage their power to build robust and dynamic web applications.
+- :heart:  I have a particular fondness for `Laravel, Vue.js, and Bootstrap` where I leverage their power to build robust and dynamic web applications.
 - :muscle: Every line of code is an opportunity to create something extraordinary, and I'm constantly thrilled by the challenges it presents.
-- :dash: My expertise lies in crafting elegant solutions using cutting-edge technologies. 
+- :dash: My expertise lies in crafting elegant solutions using cutting-edge technologies.
+- :sweat_drops: With each project, I strive to not only meet expectations but exceed them, delivering solutions that inspire and delight.
 
 <h3>:briefcase: My current work centers around...</h3>
 
-<h4>:seedling: Frontend</h4>
+<h3>:seedling: Frontend</h3>
+<h4>Frontend development is about crafting user-friendly interfaces, line by line.</h4>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
@@ -28,22 +30,22 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
 </p>
-<h4>:lock: Backend</h4>
+<h3>:lock: Backend</h3>
 <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp;&nbsp;
 </p>
-<h4>:shield: Database & Security</h4>
+<h3>:shield: Database & Security</h3>
 <p>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">&nbsp;&nbsp;
 </p>
-<h4>:sunflower: UI/UX</h4>
+<h3>:sunflower: UI/UX</h3>
 <p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;&nbsp;
 </p>
-<h4>:airplane: I'm actively researching...</h4>
+<h3>:airplane: I'm actively researching...</h3>
 <p>
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">&nbsp;&nbsp;
