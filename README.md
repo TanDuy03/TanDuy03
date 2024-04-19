@@ -18,8 +18,8 @@
 
 <h3>:briefcase: My current work centers around...</h3>
 
-<h3>:seedling: Frontend</h3> Frontend development is about crafting user-friendly interfaces, line by line.
-
+<h3>:seedling: Frontend</h3> 
+Frontend development is about crafting user-friendly interfaces, line by line.
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
