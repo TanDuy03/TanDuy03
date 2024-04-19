@@ -2,4 +2,8 @@
 
 <p align="center">Software Developer from in VietNam</p>
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ntanduy03)
+<p align="center">
+  <a href="https://www.facebook.com/ntanduy03">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+  </a>
+</p>
