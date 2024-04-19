@@ -59,5 +59,4 @@
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp;&nbsp;
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanDuy03&size_weight=0.5&count_weight=0.5)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/TanDuy03/github-readme-quotes)
