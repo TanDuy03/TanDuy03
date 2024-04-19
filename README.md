@@ -19,7 +19,8 @@
 <h3>:briefcase: My current work centers around...</h3>
 
 <h3>:seedling: Frontend</h3> 
-Frontend development is about crafting user-friendly interfaces, line by line.
+
+<p>Frontend development is about crafting user-friendly interfaces, line by line.</p>
 
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
@@ -32,7 +33,9 @@ Frontend development is about crafting user-friendly interfaces, line by line.
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
 </p>
 <h3>:lock: Backend</h3>
-Backend development involves architecting robust systems, line by line.
+
+<p>Backend development involves architecting robust systems, line by line.
+</p>
 
 <p>
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
