@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/nguyen-tan-duy-a049a92a6/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h4>:briefcase: My current work centers around...</h4>
+<h3>:briefcase: My current work centers around...</h3>
 
-<h5>:sunflower: Frontend</h5>
+<h4>:sunflower: Frontend</h4>
 <p>
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
 </p>
-<h5>Backend</h5>
+<h4>:lock: Backend</h4>
 <p>
   <img src="">&nbsp;&nbsp;
   <img src="">&nbsp;&nbsp;
