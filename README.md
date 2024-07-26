@@ -65,6 +65,6 @@
 
 > [!TIP]
 > Helpful advice for doing things better or more easily. 
-<div>
-    ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
-</div>
+<br>
+![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
+
