@@ -48,10 +48,11 @@
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">&nbsp;&nbsp;
 </p>
-<h3>:sunflower: UI/UX</h3>
+<h3>:sunflower: UI/UX & Deploy</h3>
 <p>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
 </p>
 <h3>:airplane: I'm actively researching...</h3>
 <p>
