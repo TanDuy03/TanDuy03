@@ -13,7 +13,7 @@
 
 ## I'm a web wizard, conjuring up interactive and user-friendly websites
 :sunglasses: Coding is more than just a job for me, it's an endless passion that ignites my creativity and fuels my curiosity. </br>
-:heart:  I have a particular fondness for `Laravel, Vue.js, and Bootstrap` where I leverage their power to build robust and dynamic web applications. </br>
+:heart:  I have a particular fondness for `Laravel, Vue.js, and Tailwindcss` where I leverage their power to build robust and dynamic web applications. </br>
 :muscle: Every line of code is an opportunity to create something extraordinary, and I'm constantly thrilled by the challenges it presents. </br>
 :dash: My expertise lies in crafting elegant solutions using cutting-edge technologies. </br>
 :sweat_drops: With each project, I strive to not only meet expectations but exceed them, delivering solutions that inspire and delight.
