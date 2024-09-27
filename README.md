@@ -12,46 +12,19 @@
 </p>
 
 ## I'm a web wizard, conjuring up interactive and user-friendly websites
-:sunglasses: Coding is more than just a job for me, it's an endless passion that ignites my creativity and fuels my curiosity. </br>
 :heart:  I have a particular fondness for `Laravel, Vue.js, and Tailwindcss` where I leverage their power to build robust and dynamic web applications. </br>
-:muscle: Every line of code is an opportunity to create something extraordinary, and I'm constantly thrilled by the challenges it presents. </br>
-:dash: My expertise lies in crafting elegant solutions using cutting-edge technologies. </br>
-:sweat_drops: With each project, I strive to not only meet expectations but exceed them, delivering solutions that inspire and delight.
 
-<h3>:briefcase: My current work centers around...</h3>
-
-<h3>:seedling: Frontend</h3> 
-
-<p>Frontend development is about crafting user-friendly interfaces, line by line.</p>
+<h3>:briefcase: Frameworks & Tools in Use</h3>
 
 <p>
+  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white">&nbsp;&nbsp;
-</p>
-<h3>:lock: Backend & Tool</h3>
-
-<p>Backend development involves architecting robust systems, line by line.
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
-</p>
-<h3>:shield: Database & Security</h3>
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white">&nbsp;&nbsp;
-</p>
-<h3>:sunflower: UI/UX & Deploy</h3>
-<p>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;&nbsp;
 </p>
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
