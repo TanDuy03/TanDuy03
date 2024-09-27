@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">&nbsp;&nbsp;
 </p>
-    
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
 
 <p>
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TanDuy03" />
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanDuy03&layout=compact&langs_count=8&card_width=320" />
 </p>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
 
 ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
 
