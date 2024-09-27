@@ -29,5 +29,7 @@
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
 
+[![TanDuy03](https://github-readme-stats.vercel.app/api/wakatime?username=TanDuy03)](https://github.com/TanDuy03)
+
 ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
 
