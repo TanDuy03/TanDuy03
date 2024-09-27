@@ -29,7 +29,9 @@
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TanDuy03)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/TanDuy03/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TanDuy03" />
+</a>
 
 ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
 
