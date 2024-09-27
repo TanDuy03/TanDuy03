@@ -29,9 +29,14 @@
     
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=false)](https://github.com/TanDuy03/github-readme-quotes)
 
-<a href="https://github.com/TanDuy03/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TanDuy03" />
+<p>
+    <a href="https://github.com/TanDuy03/github-readme-stats">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TanDuy03" />
+    </a>
+    <a href="https://github.com/TanDuy03/convoychat">
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TanDuy03&layout=compact&langs_count=8&card_width=320" />
 </a>
+</p>
 
 ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
 
