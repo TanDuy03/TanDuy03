@@ -38,7 +38,5 @@
 </a>
 </p>
 
-[![wakatime](https://wakatime.com/badge/user/0eb885f8-2e87-4a2c-beba-544dafa92a47.svg)](https://wakatime.com/@0eb885f8-2e87-4a2c-beba-544dafa92a47)
-
 ![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
 
