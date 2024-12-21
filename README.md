@@ -17,12 +17,12 @@
 ## Link
 <p>Cpanel WHM</p>
 <a href="https://20.45.158.172:2087">Cpanel WHM Microsoft Azure</a> <br>
-<a href="https://20.45.158.172:2083">Cpanel Hosting Microsoft Azure</a>
+<a href="https://20.45.158.172:2083">Cpanel Hosting Microsoft Azure</a>&nbsp;&nbsp;&nbsp;
 
 
 <p>OS Debian</p>
 <a href="https://debian.ntanduy.id.vn">Debian Microsoft Azure</a><br>
-<a href="https://52.237.62.178">Debian Microsoft Azure</a>
+<a href="https://52.237.62.178">Debian Microsoft Azure</a>&nbsp;&nbsp;&nbsp;
 
 
 <p>OS CentOS</p>
