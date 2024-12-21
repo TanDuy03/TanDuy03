@@ -15,15 +15,15 @@
 :heart:  I have a particular fondness for `Laravel, Vue.js, and Tailwindcss` where I leverage their power to build robust and dynamic web applications. </br>
 
 ## Link
-###
+### Cpanel WHM Azure
 <a href="https://20.45.158.172:2087">Cpanel WHM Microsoft Azure</a> <br>
 <a href="https://20.45.158.172:2083">Cpanel Hosting Microsoft Azure</a>
 
-<p>OS Debian</p>
+### OS Debian
 <a href="https://debian.ntanduy.id.vn">Debian Microsoft Azure</a><br>
 <a href="https://52.237.62.178">Debian Microsoft Azure</a>
 
-<p>OS CentOS</p>
+### OS CentOS
 <a href="https://centos.ntanduy.id.vn">CentOS Microsoft Azure</a><br>
 <a href="https://52.233.4.34">CentOS Microsoft Azure</a>
 
