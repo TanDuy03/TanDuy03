@@ -14,6 +14,19 @@
 ## I'm a web wizard, conjuring up interactive and user-friendly websites
 :heart:  I have a particular fondness for `Laravel, Vue.js, and Tailwindcss` where I leverage their power to build robust and dynamic web applications. </br>
 
+## Link
+<p>Cpanel WHM</p>
+<a href="https://20.45.158.172:2087">Cpanel WHM Microsoft Azure</a>
+<a href="https://20.45.158.172:2083">Cpanel Hosting Microsoft Azure</a>
+
+<p>OS Debian</p>
+<a href="https://debian.ntanduy.id.vn">Debian Microsoft Azure</a>
+<a href="https://52.237.62.178">Debian Microsoft Azure</a>
+
+<p>OS CentOS</p>
+<a href="https://centos.ntanduy.id.vn">CentOS Microsoft Azure</a>
+<a href="https://52.233.4.34">CentOS Microsoft Azure</a>
+
 <h3>:briefcase: Frameworks & Tools in Use</h3>
 
 <p>
