@@ -2,7 +2,7 @@
 
 I'm Nguyen Tan Duy. I'm a Software Developer in Viet Nam <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" width="20" height="15" />.
 
- - Website: https://ntanduy.id.vn
+ - Website: https://ntanduy.com
  - Facebook: https://www.facebook.com/DuyPire
  - Pinkary: https://pinkary.com/@TanDuy03
  - X: https://x.com/TanDuy_03
