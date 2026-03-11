@@ -27,4 +27,3 @@ Building scalable applications using Laravel, TypeScript, Vue.js, Nuxt, React, F
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=TanDuy03&label=Visitors+Count&color=brightgreen)
